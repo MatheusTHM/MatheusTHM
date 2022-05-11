@@ -1,4 +1,4 @@
-## Hi! I'm Matheus :owl:
+## Hi! I'm Matheus :fox_face:
 
 ### Front-end developer, coding enthusiast! :shipit:
 
@@ -8,8 +8,8 @@ Hey, I'm Matheus Thommesani, in love with technology and can say that I'm exchan
 
 <div align="center">
   <a href="https://github.com/MatheusTHM">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MatheusTHM&show_icons=true&include_all_commits=true&count_private=true&bg_color=6f5c62&title_color=3aa394&text_color=fff&icon_color=3aa394&hide_border=true"/>
-  <img width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTHM&layout=compact&langs_count=4&hide=PHP,Java,Blade&bg_color=6f5c62&title_color=3aa394&text_color=fff&icon_color=3aa394&hide_border=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MatheusTHM&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true&title_color=f7630c&text_color=fff"/>
+  <img width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTHM&layout=compact&langs_count=4&hide=PHP,Java,Blade&bg_color=0d1117&hide_border=true&title_color=f7630c&text_color=fff"/>
 </div>
   
 ### Skills :desktop_computer:

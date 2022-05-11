@@ -4,12 +4,12 @@
 
 Hey, I'm Matheus Thommesani, in love with technology and can say that I'm exchanging more and more of my free time for my personal projects.
 
-<!-- Adicionar uma descrição -->
+<!-- Adicionar uma descrição theme:discord_old_blurple -->
 
 <div align="center">
   <a href="https://github.com/MatheusTHM">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MatheusTHM&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTHM&layout=compact&langs_count=4&theme=outrun&hide=PHP,Java,Blade"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MatheusTHM&show_icons=true&include_all_commits=true&count_private=true&bg_color=6f5c62&title_color=3aa394&text_color=fff&icon_color=3aa394&hide_border=true"/>
+  <img width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTHM&layout=compact&langs_count=4&hide=PHP,Java,Blade&bg_color=6f5c62&title_color=3aa394&text_color=fff&icon_color=3aa394&hide_border=true"/>
 </div>
   
 ### Skills :desktop_computer:

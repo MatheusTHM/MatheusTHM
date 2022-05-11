@@ -7,7 +7,7 @@ Hey, I'm Matheus Thommesani, in love with technology and can say that I'm exchan
 <!-- Adicionar uma descrição theme:discord_old_blurple -->
 
 <div align="center">
-  <a href="https://github.com/MatheusTHM">
+  <a href="#">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MatheusTHM&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true&title_color=f7630c&text_color=fff"/>
   <img width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTHM&layout=compact&langs_count=4&hide=PHP,Java,Blade&bg_color=0d1117&hide_border=true&title_color=f7630c&text_color=fff"/>
 </div>
